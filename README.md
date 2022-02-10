@@ -1,3 +1,5 @@
+![CS](https://user-images.githubusercontent.com/56579239/153388263-a4619d70-e047-4e18-85da-82ee1202cda1.png)
+
 # Computer-Science
 Computer Science 📖✏
 
@@ -22,3 +24,6 @@ Computer Science 📖✏
  - Memory
  - Scheduling
  - IO&File
+
+#### 참고자료
+![JaeYeopHan님의 깃허브](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
