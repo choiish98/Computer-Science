@@ -10,6 +10,9 @@
   - 프로세스 제어
   - 운영체제의 수행
 * [3. 쓰레드](https://github.com/choiish98/Computer-Science/tree/main/OS/3.%20Thread)
+  - 프로세스와 쓰레드
+  - 쓰레드의 유형
+  - 멀티코어와 멀티쓰레딩
 * [4. 병행성](https://github.com/choiish98/Computer-Science/tree/main/OS/4.%20Concurrency)
 * [5. 메모리](https://github.com/choiish98/Computer-Science/tree/main/OS/5.%20Memory)
   - 메모리 관리
