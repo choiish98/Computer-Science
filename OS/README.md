@@ -14,6 +14,12 @@
   - 쓰레드의 유형
   - 멀티코어와 멀티쓰레딩
 * [4. 병행성](https://github.com/choiish98/Computer-Science/tree/main/OS/4.%20Concurrency)
+  - 병행성 원리
+  - 상호 배제
+  - 세마포어
+  - 모니터
+  - 메시지
+  - 교착상태
 * [5. 메모리](https://github.com/choiish98/Computer-Science/tree/main/OS/5.%20Memory)
   - 메모리 관리
   - 가상 메모리
