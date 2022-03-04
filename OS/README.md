@@ -22,6 +22,10 @@
   - 교착상태
 * [5. 메모리](https://github.com/choiish98/Computer-Science/tree/main/OS/5.%20Memory)
   - 메모리 관리
+    + 메모리 관리 요구 조건
+    + 메모리 분할
+    + 페이징
+    + 세그멘테이션
   - 가상 메모리
 * [6. 스케쥴링](https://github.com/choiish98/Computer-Science/tree/main/OS/6.%20Scheduling)
   - 단일처리기 스케쥴링
