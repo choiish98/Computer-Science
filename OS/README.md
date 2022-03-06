@@ -29,7 +29,6 @@
   - 가상 메모리
 * [6. 스케쥴링](https://github.com/choiish98/Computer-Science/tree/main/OS/6.%20Scheduling)
   - 단일처리기 스케쥴링
+    + 처리기 스케줄링의 유형
+    + 스케줄링 알고리즘
   - 멀티 프로세서, 멀티 코어 및 
-* [7. 입출력과 파일](https://github.com/choiish98/Computer-Science/tree/main/OS/7.%20IO&File)
-  * 입출력 파일과 디스크 스케쥴링
-  * 파일 관리
