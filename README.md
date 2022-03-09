@@ -13,8 +13,6 @@ Computer Science 📖✏
 - [4. Algorithms](#_4._Algorithms)
 
 <br>
-<br>
-<br>
 
 # What is this?
 개발자가 되기에 기초적으로 공부해야 할 Computer Science 지식에 대해 정리한 학술 자료입니다. 
@@ -45,11 +43,12 @@ Computer Science 📖✏
 # [4. Algorithms](https://github.com/choiish98/algorithms/tree/main/Algorithm)
  - 추후 업데이트 예정
 
-
+<br>
 
 #### 참고자료
 [JaeYeopHan님의 깃허브](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
 
-![운영체제]()
+![운영체제](https://user-images.githubusercontent.com/56579239/157432325-f2f6fac1-12e2-46c7-97a3-b182f009c173.jpg)
+![네트워크](https://user-images.githubusercontent.com/56579239/157432319-ef59f853-6986-4fd3-8c66-f6fa960c954f.jpg)
 
-![네트워크]()
+
