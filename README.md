@@ -6,11 +6,11 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
-- [What is this?](What_is_this?)
-- [1. OS](OS)
-- [2. Network](Network)
-- [3. Data Structure](Data_Structure)
-- [4. Algorithms](Algorithms)
+- [What is this?](#_What_is_this?)
+- [1. OS](#_💡_OS)
+- [2. Network](#_💡_Network)
+- [3. Data Structure](#_💡_Data_Structure)
+- [4. Algorithms](#_💡_Algorithms)
 
 <br>
 
