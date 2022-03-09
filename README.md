@@ -38,10 +38,10 @@ Computer Science 📖✏
  - Upper Layers
  - Application Protocol
 
-# Data Structure [link](https://github.com/choiish98/algorithms/tree/main/DataStructure(theory))
+# Data Structure [link](https://github.com/choiish98/Computer-Science/tree/main/DataStructure)
  - 추후 업데이트 예정
 
-# Algorithms [link](https://github.com/choiish98/algorithms/tree/main/Algorithm)
+# Algorithms [link](https://github.com/choiish98/Computer-Science/tree/main/Algorithm)
  - 추후 업데이트 예정
 
 <br>
