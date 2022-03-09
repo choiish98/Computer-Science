@@ -7,7 +7,10 @@ Computer Science 📖✏
 
 ## Table of Contents
 - [What is this?](#_What_is_this?)
-- [1. OS](https://github.com/choiish98/Computer-Science/tree/main/OS)
+- [1. OS](#_1._OS)
+- [2. Network](#_2._Network)
+- [3. Data Structure](#_3._Data_Structure)
+- [4. Algorithms](#_4._Algorithms)
 
 <br>
 <br>
@@ -27,7 +30,26 @@ Computer Science 📖✏
  - Concurrency
  - Memory
  - Scheduling
- - IO&File
+
+# [2. Network](https://github.com/choiish98/Computer-Science/tree/main/Network)
+ - Network Basics
+ - Data Link Layer
+ - Network Layer
+ - Transport Layer
+ - Upper Layers
+ - Application Protocol
+
+# [3. Data Structure](https://github.com/choiish98/algorithms/tree/main/DataStructure(theory))
+ - 추후 업데이트 예정
+
+# [4. Algorithms](https://github.com/choiish98/algorithms/tree/main/Algorithm)
+ - 추후 업데이트 예정
+
+
 
 #### 참고자료
-![JaeYeopHan님의 깃허브](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+[JaeYeopHan님의 깃허브](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
+
+![운영체제]()
+
+![네트워크]()
