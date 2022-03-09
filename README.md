@@ -6,11 +6,11 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
-- [What is this?](#_What_is_this?)
-- [1. OS](#_1._OS)
-- [2. Network](#_2._Network)
-- [3. Data Structure](#_3._Data_Structure)
-- [4. Algorithms](#_4._Algorithms)
+- [What is this?](What_is_this?)
+- [1. OS](OS)
+- [2. Network](Network)
+- [3. Data Structure](Data_Structure)
+- [4. Algorithms](Algorithms)
 
 <br>
 
@@ -21,7 +21,7 @@ Computer Science 📖✏
 
 > No Pain No Gain 🦾
 
-# [1. OS](https://github.com/choiish98/Computer-Science/tree/main/OS)
+# 💡 OS [link](https://github.com/choiish98/Computer-Science/tree/main/OS)
  - Outline
  - Process
  - Thread
@@ -29,7 +29,7 @@ Computer Science 📖✏
  - Memory
  - Scheduling
 
-# [2. Network](https://github.com/choiish98/Computer-Science/tree/main/Network)
+# 💡 Network [link](https://github.com/choiish98/Computer-Science/tree/main/Network)
  - Network Basics
  - Data Link Layer
  - Network Layer
@@ -37,10 +37,10 @@ Computer Science 📖✏
  - Upper Layers
  - Application Protocol
 
-# [3. Data Structure](https://github.com/choiish98/algorithms/tree/main/DataStructure(theory))
+# 💡 Data Structure [link](https://github.com/choiish98/algorithms/tree/main/DataStructure(theory))
  - 추후 업데이트 예정
 
-# [4. Algorithms](https://github.com/choiish98/algorithms/tree/main/Algorithm)
+# 💡 Algorithms [link](https://github.com/choiish98/algorithms/tree/main/Algorithm)
  - 추후 업데이트 예정
 
 <br>
