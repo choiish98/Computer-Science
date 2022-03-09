@@ -7,10 +7,10 @@ Computer Science 📖✏
 
 ## Table of Contents
 - [What is this?](#what-is-this)
-- [OS link](#os-link)
-- [Network link](#network-link)
-- [Data Structure link)](#data-structure-link)
-- [Algorithms link](#algorithms-link)
+- [OS](#os-link)
+- [Network](#network-link)
+- [Data Structure](#data-structure-link)
+- [Algorithms](#algorithms-link)
 - [참고자료](#참고자료)
 
 <br>
