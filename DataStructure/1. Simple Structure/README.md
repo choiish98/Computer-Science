@@ -11,4 +11,4 @@
 - **문자(Character)**: 단일 문자로, 한 글자를 나타낸다. (ex) a, b, c
 - **문자열(String)**: 두 개 이상의 문자를 나타낸다.
 
-![1-1. 자료구조 표]()
+![1-1  자료구조 표](https://user-images.githubusercontent.com/56579239/163678691-1153d444-f956-409c-994c-f10e4bd8f37e.png)
