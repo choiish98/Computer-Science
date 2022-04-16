@@ -1,6 +1,6 @@
 # 자료구조
 
-* [1. Simple Structure](1.%20Simpole%20Structure)
+* [1. Simple Structure](1.%20Simple%20Structure)
   - Integer
   - Float
   - Character
