@@ -6,12 +6,14 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
+- [Computer-Science](#computer-science)
+  - [Table of Contents](#table-of-contents)
 - [What is this?](#what-is-this)
-- [OS](#os-link)
-- [Network](#network-link)
-- [Data Structure](#data-structure-link)
-- [Algorithms](#algorithms-link)
-- [참고자료](#참고자료)
+- [OS link](#os-link)
+- [Network link](#network-link)
+- [Data Structure link](#data-structure-link)
+- [Algorithms link](#algorithms-link)
+      - [참고자료](#참고자료)
 
 <br>
 
@@ -39,7 +41,20 @@ Computer Science 📖✏
  - Application Protocol
 
 # Data Structure [link](https://github.com/choiish98/Computer-Science/tree/main/DataStructure)
- - 추후 업데이트 예정
+ - Simple Structure
+   - Integer
+    - Float
+    - Character
+    - String
+ - Linear Structure
+    - List
+    - Linked List
+    - Stack
+    - Queue
+    - Deque
+ - non-Linear Structure
+    - Tree
+    - Graph
 
 # Algorithms [link](https://github.com/choiish98/Computer-Science/tree/main/Algorithm)
  - 추후 업데이트 예정
