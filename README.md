@@ -6,14 +6,12 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
-- [Computer-Science](#computer-science)
-  - [Table of Contents](#table-of-contents)
 - [What is this?](#what-is-this)
-- [OS link](#os-link)
-- [Network link](#network-link)
-- [Data Structure link](#data-structure-link)
-- [Algorithms link](#algorithms-link)
-      - [참고자료](#참고자료)
+- [OS](#os-link)
+- [Network](#network-link)
+- [Data Structure](#data-structure-link)
+- [Algorithms](#algorithms-link)
+- [참고자료](#참고자료)
 
 <br>
 
