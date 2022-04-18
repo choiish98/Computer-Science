@@ -1,4 +1,4 @@
-# 자료구조
+# Data Structure (with JAVA)
 
 * [1. Simple Structure](1.%20Simple%20Structure)
   - Integer
