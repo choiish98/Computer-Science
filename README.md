@@ -6,14 +6,12 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
-- [Computer-Science](#computer-science)
-  - [Table of Contents](#table-of-contents)
 - [What is this?](#what-is-this)
 - [OS link](#os-link)
 - [Network link](#network-link)
 - [Data Structure link](#data-structure-link)
 - [Algorithms link](#algorithms-link)
-      - [참고자료](#참고자료)
+- [참고자료](#참고자료)
 
 <br>
 
@@ -47,11 +45,10 @@ Computer Science 📖✏
     - Character
     - String
  - Linear Structure
-    - List
-    - Linked List
+    - Array
+    - Array List & Linked List
     - Stack
-    - Queue
-    - Deque
+    - Queue & Deque
  - non-Linear Structure
     - Tree
     - Graph
