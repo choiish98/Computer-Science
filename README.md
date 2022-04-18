@@ -6,14 +6,12 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
-- [Computer-Science](#computer-science)
-  - [Table of Contents](#table-of-contents)
 - [What is this?](#what-is-this)
 - [OS link](#os-link)
 - [Network link](#network-link)
 - [Data Structure link](#data-structure-link)
 - [Algorithms link](#algorithms-link)
-      - [참고자료](#참고자료)
+- [참고자료](#참고자료)
 
 <br>
 
@@ -47,11 +45,10 @@ Computer Science 📖✏
     - Character
     - String
  - Linear Structure
-    - List
-    - Linked List
+    - Array
+    - Array List & Linked List
     - Stack
-    - Queue
-    - Deque
+    - Queue & Deque
  - non-Linear Structure
     - Tree
     - Graph
@@ -63,6 +60,7 @@ Computer Science 📖✏
 
 #### 참고자료
 [JaeYeopHan님의 깃허브](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
+
 [생활 코딩 - Data Structure](https://user-images.githubusercontent.com/56579239/157432319-ef59f853-6986-4fd3-8c66-f6fa960c954f.jpg)
 
 ![운영체제](https://user-images.githubusercontent.com/56579239/157432325-f2f6fac1-12e2-46c7-97a3-b182f009c173.jpg)
