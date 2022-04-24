@@ -200,7 +200,7 @@
 > 3. 서버에 서비스 요청
 > 4. 서비스 이용 완료
 
-![12-1. TCP를 이용한 소켓 통신 절차]()
+![12-1  TCP를 이용한 소켓 통신 절차](https://user-images.githubusercontent.com/56579239/164968087-c777c757-7a49-4af1-a00a-1a5bbe606261.jpg)
 
 - [연결형 서버 프로그램 예제](c_serverProgram.c)
 - [연결형 클라이언트 프로그램 예제](c_clientProgram.c)
@@ -208,7 +208,7 @@
 ##### (2) 비연결형 서비스
 비연결형 서비스에서는 connect()와 accept() 함수로 연결을 설정하는 과정이 생략되며, 데이터 송수신을 위한 send(), recv() 함수 대신에 sendto(), recvfrom() 함수를 사용한다. 비연결형 서비스에서는 전송 데이터마다 수신자의 소켓 주소를 함께 전송한다.
 
-![12-2. UDP를 이용한 소켓 통신 절차]()
+![12-2  UDP를 이용한 소켓 통신 절차](https://user-images.githubusercontent.com/56579239/164968093-b8a94d08-4873-4569-8566-b7986c86d604.png)
 
 - [비연결형 서버 프로그램 예제](n_serverProgram.c)
 - [비연결형 클라이언트 프로그램 예제](n_clientProgram.c)

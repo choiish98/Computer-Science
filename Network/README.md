@@ -1,6 +1,7 @@
 # 네트워크
 
-![프로토콜의 구조]()
+![프로토콜 구조](https://user-images.githubusercontent.com/56579239/164968055-5f3c7a84-5817-4809-82ea-36b0ae7ecb14.png)
+
 
 * [1. 네트워크 기초](https://github.com/choiish98/Computer-Science/tree/main/Network/1.%20Network%20Basic)
   - 네트워크의 기초 용어와 기능
