@@ -11,7 +11,7 @@ ArrayList와 LinkedList에 대해 이야기 하기 전에 먼저 리스트에 �
 #### (2) Array List
 **(1) 정의**
   
-![2-1. Array List]()
+![2-1  Array List](https://user-images.githubusercontent.com/56579239/164976394-c4120c49-4c10-4bce-b270-20183eeff6f4.jpg)
 
 배열 리스트는 회사 내 모든 직원의 사무실이 모여있는 것이라 생각할 수 있다. 위의 그림에서처럼, 연속된 공간에 직원들의 사무실이 차례로 들어가는 것이다. 이처럼, 메모리 상에서 배열의 공간을 할당할 때, `연속적인 공간`을 할당하고 데이터가 들어가는 것이 배열 리스트이다.
 
@@ -25,7 +25,8 @@ ArrayList를 사용하기 위해서는 자바 내부에 내장된 ArrayList를 �
 **(3) Array List API**
 - 데이터의 추가: 데이터를 추가할 땐 add 메소들르 사용한다. 배열에 단순히 더해지는 것이기 때문에 동작이 빠르다.
   
-    ![2-2. data add]()
+    ![2-2  data add](https://user-images.githubusercontent.com/56579239/164976400-94425935-e723-4835-8775-43b341953c79.png)
+
     ```
     numbers.add(10);
     numbers.add(20);
@@ -34,20 +35,23 @@ ArrayList를 사용하기 위해서는 자바 내부에 내장된 ArrayList를 �
     ```
 - 특정 위치에 추가: add 메소드의 첫 번째 인자로 인덱스를 지정하면, 지정된 인덱스에 데이터를 추가한다. 이때, 기존의 데이터는 뒤로 한 칸씩 밀려나게 된다. 
   
-    ![2-3. data add_2]()
+    ![2-3  data add_2](https://user-images.githubusercontent.com/56579239/164976402-f6641452-9134-445c-b1b5-654582f57017.png)
+
     ```
     numbers.add(1, 50);
     ``` 
     자바의 배열은 크기가 고정되어 있다. 그래서 만약 데이터를 추가하는 과정에서 배열이 꽉 찰 경우가 있다. 이럴 땐 기존의 배열 대비 크기가 2배 큰 새로운 배열을 만들고 기존의 데이터를 새로운 배열로 복제한다. 덕분에 프로그래머는 `ArrayList의 크기에 신경쓰지 않고` 프로그램을 만들 수 있다. 하지만 배열의 크기를 키우는 과정에서 많은 부하가 발생한다.
 - 데이터의 삭제: 특정 인덱스에 위치하는 엘리먼트를 삭제할 때는 remove 메소드를 사용한다.
   
-    ![2-4. data remove]()
+    ![2-4  data remove](https://user-images.githubusercontent.com/56579239/164976404-95314394-5a81-454d-b288-1f408fc3ee63.png)
+
     ```
     numbers.remove(2);
     ```
 - 데이터의 조회: 특정 데이털르 가져올 때는 get을 사용한다. 이때 내부적으로 배열을 이용하기 때문에 매우 빠르게 접근할 수 있다.
   
-    ![2-5. data get]()
+    ![2-5  data get](https://user-images.githubusercontent.com/56579239/164976406-ba5eef0b-1658-4534-9d5d-0528cfb6d2f1.png)
+
     ```
     numbers.get(2);
     ```
