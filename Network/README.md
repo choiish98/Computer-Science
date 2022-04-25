@@ -27,4 +27,4 @@
   - DNS
   - 전자 메일
   - 파일 전송
-* [7. 요약](https://github.com/choiish98/Computer-Science/tree/main/Network/7.%20Summary)
+* [7. 요약(OSI 7 계층)](https://github.com/choiish98/Computer-Science/tree/main/Network/7.%20Summary)
