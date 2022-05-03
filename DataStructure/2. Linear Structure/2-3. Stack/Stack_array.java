@@ -1,6 +1,8 @@
-public class Stack {
+import org.w3c.dom.css.CSS2Properties;
+
+public class Stack_array {
     public static void main(String[] args) {
-        MyStack stack = new MyStack();
+        MyStack_array stack = new MyStack_array();
         stack.push(1);
         stack.push(2);
         stack.push(3);
@@ -12,20 +14,22 @@ public class Stack {
         System.out.println(stack);
     }
   }
-  class MyStack {
+  class MyStack_array {
     private int[] array;
     private int capacity;
     private int top;
-    public MyStack() {
+    public MyStack_array() {
       this.array = new int[5];
       this.capacity = 5;
       this.top = -1;
     }
     public int pop() {
+      if (capacity == 0) System.out.println("null");
         int data = array[top--];
         return data;
     }
       public int peek() {
+        if (capacity == 0) System.out.println("null");
         int data = array[top];
         return data;
     }    
