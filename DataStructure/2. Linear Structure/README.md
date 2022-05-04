@@ -5,4 +5,4 @@
 
 - ### [Stack](2-3.%20Stack)
   
-- ### [Queue & Deque](2-4.%20Queue%20&%20Deque)
+- ### [Queue](2-4.%20Queue)

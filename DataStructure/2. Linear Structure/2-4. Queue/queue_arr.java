@@ -1,4 +1,4 @@
-public class Queue {
+public class queue_arr {
     public static void main(String[] args) {
       MyQueue queue = new MyQueue();
       int data = 1;

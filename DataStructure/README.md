@@ -9,7 +9,7 @@
   - Array
   - Array List & Linked List
   - Stack
-  - Queue & Deque
+  - Queue
 * [3. non-Linear Structure](3.%20non-Linear%20Structure)
   - Tree
   - Graph
