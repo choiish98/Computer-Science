@@ -6,12 +6,14 @@ Computer Science 📖✏
 <br>
 
 ## Table of Contents
+- [Computer-Science](#computer-science)
+  - [Table of Contents](#table-of-contents)
 - [What is this?](#what-is-this)
 - [OS link](#os-link)
 - [Network link](#network-link)
 - [Data Structure link](#data-structure-link)
 - [Algorithms link](#algorithms-link)
-- [참고자료](#참고자료)
+      - [참고자료](#참고자료)
 
 <br>
 
@@ -37,18 +39,15 @@ Computer Science 📖✏
  - Transport Layer
  - Upper Layers
  - Application Protocol
+ - summary
 
 # Data Structure [link](https://github.com/choiish98/Computer-Science/tree/main/DataStructure)
  - Simple Structure
-   - Integer
-    - Float
-    - Character
-    - String
  - Linear Structure
     - Array
     - Array List & Linked List
     - Stack
-    - Queue & Deque
+    - Queue
  - non-Linear Structure
     - Tree
     - Graph
