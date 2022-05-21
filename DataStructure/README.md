@@ -9,4 +9,4 @@
 * [3. non-Linear Structure](3.%20non-Linear%20Structure)
   - Tree
   - Graph
-* [4. Big-O](3.%20Big-O)
+* [4. Big-O](4.%20Big-O)
